@@ -1,3 +1,4 @@
 # My First React Project
-- [Link](https://counter-app01341.netlify.app/)
+- this is a basic project i built it while learning Ract js to understund the basic and the structor of this language
+- [CounterProject](https://counter-app01341.netlify.app/)
 
